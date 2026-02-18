@@ -1,2 +1,4 @@
-# RCOS-Fall25
-Temporary project for RCOS assignment 1.
+- Ryan Keane
+- ![Ryan Keane](photo.png)
+- 2029
+- I will be working on documentation automation for Quarkus.
